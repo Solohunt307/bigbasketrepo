@@ -1,0 +1,9 @@
+{
+	"name": "projbigbasket",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4aea67df-19f9-4800-bb5f-1d5009d657c1",
+		"tenantId": "e775fbb8-fbe7-4cec-9dc9-f49fff0c44fa"
+	}
+}
